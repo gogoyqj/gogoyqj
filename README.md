@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**gogoyqj/gogoyqj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+快手轻雀协作前端团队（北京）正在招聘前端工程师，wx 私聊我 skipper_yqj 投递，我们的产品：https://www.qingque.cn/
