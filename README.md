@@ -1,7 +1,7 @@
-### Hi there, I'm Skipper 🐧 👋
+### Hi there, I'm 乾元（Skipper） 🐧 👋
 ------------------------------
 
-我在快手轻雀协作前端团队（北京）做前端（架构师、负责人）。
+我在快手轻雀协作前端团队（北京）做前端架构师、负责人。
 
 ### A little more about me...
 + TypeScript、React 和 NestJS 拥趸
