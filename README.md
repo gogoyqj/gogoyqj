@@ -1,8 +1,6 @@
 ### Hi there 🐧 👋
 ------------------------------
 
-我在快手轻雀协作前端团队（北京）做前端架构师、负责人。
-
 ### A little more about me...
 + TypeScript、React 和 NestJS 拥趸
 + TDD、DDD、Reactive 拥趸
